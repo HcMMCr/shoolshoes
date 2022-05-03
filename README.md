@@ -1,0 +1,2 @@
+# shoolshoes
+creación del readme 
